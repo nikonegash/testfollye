@@ -13,7 +13,7 @@ export const injected = new InjectedConnector({
 export const RPC_URLS = {
     // 56: "https://bsc-dataseed.binance.org/",
     // 97: "https://data-seed-prebsc-1-s1.binance.org:8545/"
-    3 : "https://ropsten.infura.io/v3/" 
+    3 : "https://ropsten.infura.io/v3/cb39df74f5d242b6bf3dc9589c9ae8af" 
 };
 
 export const walletconnect = new WalletConnectConnector({
